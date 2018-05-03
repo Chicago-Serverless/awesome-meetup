@@ -14,9 +14,9 @@
  
   - Patrick McDowell | [GitHub](https://github.com/pmcdowell-okta) | [Twitter?]()
   
-  - Rob ? | [GitHub?]() | [Twitter?]()
+  - Rob Ribeiro | [GitHub](https://github.com/azurelogic) | [Twitter](https://twitter.com/azurelogic)
   
-  - Chris ? [GitHub?]() | [Twitter?]()
+  - Chris Johnson Bidler [GitHub](https://github.com/hlprmnky) | [Twitter](https://twitter.com/hlprmnky)
 
 ## Sponspors
 
