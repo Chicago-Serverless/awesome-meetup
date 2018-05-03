@@ -5,6 +5,8 @@
  
 - May 17, 2018 @ [WeWork National Building](https://www.meetup.com/Chicago-Serverless/events/249673900/)
  
+  - Don Schenck | [Twitter](https://twitter.com/donschenck)
+ 
 
 ## Past Meetings
 
